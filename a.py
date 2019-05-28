@@ -7,3 +7,5 @@ os.system('ls')
 print 'aaaasssddd'
 
 print 'harison ford'
+
+print sys.argv[0]
